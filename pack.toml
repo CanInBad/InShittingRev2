@@ -1,0 +1,13 @@
+name = "InShittingRev2"
+author = "CanInBad"
+version = "a0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "86aabcb3b2bc3b9c15bef5fad0a4a8364fe4a46259295acf7abd0a894d13dcd2"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.84"
