@@ -1,0 +1,13 @@
+name = "AE2 QoL Recipes"
+filename = "ae2qolrecipes-neoforge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e58e113401f2d81c670fc1fa80d285ac59a073a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4793809
+project-id = 907026
