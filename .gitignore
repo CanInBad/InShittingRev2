@@ -1,1 +1,5 @@
+# used to export modlist duh
 modlist.md
+
+# only ignored zip in root folder
+/*.zip
