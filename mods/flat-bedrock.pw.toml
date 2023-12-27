@@ -1,6 +1,6 @@
 name = "Flat Bedrock (Forge / Fabric)"
 filename = "flatbedrock-forge-3.0.1-build.18+mc1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

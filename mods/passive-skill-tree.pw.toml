@@ -1,0 +1,13 @@
+name = "Passive Skill Tree"
+filename = "PassiveSkillTree-1.20.1-BETA-0.6.3a-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "683b18c8e97e7e0e9ef7e70055261bf3354c2104"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4969659
+project-id = 850298

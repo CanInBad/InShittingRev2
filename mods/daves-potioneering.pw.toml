@@ -1,0 +1,13 @@
+name = "Dave's Potioneering"
+filename = "davespotioneering-fabric-1.20.1-5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53b11a56736f93beb51a4ca927caa6bb7186377f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4913130
+project-id = 639653
