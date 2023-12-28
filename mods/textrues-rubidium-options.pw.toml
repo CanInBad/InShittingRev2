@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "49e881dda7813f522d426d1a2f4faded0158c66f"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "If you already disabled Embedium then also take this off"
+
 [update]
 [update.curseforge]
 file-id = 4866444

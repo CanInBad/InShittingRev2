@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Key binding mod. this is really required but \"I want less mods\""
+
 [update]
 [update.curseforge]
 file-id = 4646682

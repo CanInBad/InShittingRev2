@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "d7d5af20faa2bd7012aa2d34b5804324aa273092"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Put a FPS cap when you not focused on Minecraft"
+
 [update]
 [update.curseforge]
 file-id = 4586784

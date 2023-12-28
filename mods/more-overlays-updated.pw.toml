@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "ac219719ba768eab9786041d05608586458d006e"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Ability to search with JEI and making it highlighted, light overlay, and better chunk borders"
+
 [update]
 [update.curseforge]
 file-id = 4574422

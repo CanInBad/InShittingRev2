@@ -1,0 +1,18 @@
+name = "OfflineSkins"
+filename = "offlineskins-1.20.1-v1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ee0166b3ec3878963dec8d840dc86e3faf53f11a"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = true
+description = "Ability to load custom skin server or load skin from Mojang server even in offline server"
+
+[update]
+[update.curseforge]
+file-id = 4592954
+project-id = 241420
