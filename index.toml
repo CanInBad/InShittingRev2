@@ -91,6 +91,11 @@ hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
@@ -141,6 +146,11 @@ hash = "f0d7433895d2d368a0fa4dc1b2ac0642a0068b67f998eb22c46bfa5a752f1ffe"
 metafile = true
 
 [[files]]
+file = "mods/cave-dweller-reimagined.pw.toml"
+hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
 metafile = true
@@ -162,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+hash = "7a4626079cc705ddf16e42b78cb43a02a0eb0b15c4cc7839546b503a85bb91fc"
 metafile = true
 
 [[files]]
@@ -172,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
+hash = "ee54fd3392b0e351dd17d80c57722cdbb8da2e1184c7f66dd8643247aea708c1"
 metafile = true
 
 [[files]]
@@ -227,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "834e4b91dbeeed1c6336a74c005bda1dd335052b0685294e4f25409f0f6d18f8"
+hash = "9dc22ae633cc0e6bc00503c5ee083248fadf46846a9ece358d6fcbcfb6afbb7c"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "c81f677f593c4d03fdb454088fb185f016f93060aee893c41e550b95e6a9cb68"
+hash = "a8b7ea7a17228a4fd963d53542d73059b6bf22936c25e51825a48cefb89be0e7"
 metafile = true
 
 [[files]]
@@ -242,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "450c137fe8444ec12d12e0d41d9ef07f3541e593976f739eb97297f9a8461407"
+hash = "76bf910887abbc8990184e8af5a5fd867856b2b3d12162e61f7f53ddc94b7d7b"
 metafile = true
 
 [[files]]
@@ -277,17 +287,22 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
+hash = "6ccec096857316cf6cc35b37bb1f6c4c7bf8861b743a44141d96ccfa7472598c"
 metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "5a18e37b4b35c8bdf251f0fe90c0a24a1f27ca829acae021e5e426d80f1f5528"
+hash = "11e16884c44640c472ad35d68ad82ef6f541f6b49727c28101732d8a1fa4bc25"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "dc224b6f994ff0b4ec67d80f2eebcd72b8ca8dc2f4a88b562955e47f725ca631"
+metafile = true
+
+[[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "b28d1316a67f7590ee402b32f049baf1c00419ce34832a5d61c5df538f638125"
 metafile = true
 
 [[files]]
@@ -312,12 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1775d9ca66d221d417d8ae4c59dfcee9ee93828253948e415ae9f461da58ae2f"
-metafile = true
-
-[[files]]
-file = "mods/immersive-melodies.pw.toml"
-hash = "67ca8a1c35bc6d18831182c87124455374965da39da2db5d2596cfec8538712a"
+hash = "777dce932a8424dbefcdd5488d01bf618432e75049454303164b5100de59a87a"
 metafile = true
 
 [[files]]
@@ -406,13 +416,13 @@ hash = "94a3efed233ccebc143612fdba55eb6acb36fa51db124c6ac7b564f409cee21c"
 metafile = true
 
 [[files]]
-file = "mods/littleframes.pw.toml"
-hash = "79452ccc8c104b6d486827c2281134ed0a0afe192e70ca8e6472ddbd6fd93d07"
+file = "mods/lootr.pw.toml"
+hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
 metafile = true
 
 [[files]]
-file = "mods/lootr.pw.toml"
-hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
+file = "mods/luckperms.pw.toml"
+hash = "fb1c7bca3cbddf8c380506557d6bd2a401ec55106cdd897ce427b86453baf821"
 metafile = true
 
 [[files]]
@@ -452,12 +462,12 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "39e1d73b7c168c266093e9577ef328599ab090cb6c82e25aa43dfc14650c10f6"
+hash = "bd983afb75a43085e2f1c0a1d7e4b93abf6e956c68490949763dd052f1010e88"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6b67eaeeb9077a252fe10072c5d39a5d942491e65bed2f82c37c17c69ceeb2fe"
+hash = "909ead60b877afdf2c17ee49d29b7771c88aa91c31f7273dbe4f4054b4b2bda4"
 metafile = true
 
 [[files]]
@@ -481,8 +491,8 @@ hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+file = "mods/no-telemetry.pw.toml"
+hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
 
 [[files]]
@@ -497,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/offlineskins.pw.toml"
-hash = "05d520d48bf9d0be50bdc99cb740d308863203ef8b62a10a7849c73e8bbb9d6d"
+hash = "9a1d9acc791c51b4bb0c1d67b8b588213b0eed5bcdaf1ed9ec3f60da48b8159b"
 metafile = true
 
 [[files]]
@@ -547,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
-hash = "dc322b58b3e8cfe01af99cec06489fe452670c5bb0b48973297788d008f7aa1c"
+hash = "90de3986e3d5ccb448595dcb2223cf7b634ccf552fd6710f7d36257ac5d5a5df"
 metafile = true
 
 [[files]]
@@ -647,17 +657,17 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
+hash = "0b4d3075468867c1b06ac48b58e11d92d8918a2cf4b05869c9db4da6124dfc89"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "675342c4c910685b5c16a0d3378911e5428717888a923a1e87811100494e16ea"
+hash = "afe5af23a3ec49c0682e4daa81ee61d4fcadc2f9cc30207faf326bb45e02d39f"
 metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "565a6b4b8aca974b1174f486f0a387c1841de627877eb113d449648a77ead263"
+hash = "ff647c629e52be3c5580515440ff12dbf6851096fcbb35acdc077e140042c883"
 metafile = true
 
 [[files]]

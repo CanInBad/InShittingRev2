@@ -1,13 +1,13 @@
 name = "InShittingRev2"
 author = "CanInBad"
-version = "a1"
-pack-format = "packwiz:1.1.0"
+version = "a3"
 description = "A general modpack \"designed\" to be light, easy to run on potato, and fun!"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b749edbd6f0f127bc84498491b6438b399111eb3be5214308e0b71af5b0b632a"
+hash = "32513022ad2864d813e5f6c4e4356308c446e88966344b5e8309957659966c4c"
 
 [versions]
 minecraft = "1.20.1"

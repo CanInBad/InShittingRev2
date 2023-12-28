@@ -1,0 +1,13 @@
+name = "LuckPerms"
+filename = "LuckPerms-Forge-5.4.109.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "605b0fae16238f384d79e4ba648ab18d2d392057"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4933886
+project-id = 431733
