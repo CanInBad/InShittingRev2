@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless-building.pw.toml"
-hash = "90949d3032e45e834dc8b2b3c01a40c73d22c9eb827835aa0b831b625a2c5a3c"
+hash = "5c118585456add791116b5b0c9af9e19a79ae108738b0c35ece16149727f936e"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "fb1c7bca3cbddf8c380506557d6bd2a401ec55106cdd897ce427b86453baf821"
+hash = "43f3579c8b58086be64f32a90479ff5ba779c4ec602ce04e7ea0c77cc4e0b721"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "afe5af23a3ec49c0682e4daa81ee61d4fcadc2f9cc30207faf326bb45e02d39f"
+hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
 metafile = true
 
 [[files]]
