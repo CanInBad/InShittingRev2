@@ -1,0 +1,13 @@
+name = "Pause Day Cycle"
+filename = "pause-day-cycle-1.0+1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8fDygXCb/versions/5bglb1HR/pause-day-cycle-1.0%2B1.20.zip"
+hash-format = "sha1"
+hash = "17e2bd50571c0f9fa28c12bfe0dbc2eca3240917"
+
+[update]
+[update.modrinth]
+mod-id = "8fDygXCb"
+version = "5bglb1HR"

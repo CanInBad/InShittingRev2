@@ -4,4 +4,5 @@ modlist.md
 # only ignored zip in root folder
 /*.zip
 
-autocom.ps1
+*.ps1
+.vscode/settings.json

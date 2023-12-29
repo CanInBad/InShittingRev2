@@ -1,0 +1,13 @@
+name = "Detect AFK Players"
+filename = "afk-1.0+1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZdgwUpA/versions/4fCWquOb/afk-1.0%2B1.20.zip"
+hash-format = "sha1"
+hash = "9409386468e47f712a67648a573026171addb3ad"
+
+[update]
+[update.modrinth]
+mod-id = "OZdgwUpA"
+version = "4fCWquOb"
