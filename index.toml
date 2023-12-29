@@ -55,7 +55,7 @@ preserve = true
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fcda6b934d516f90824e9b0a1172268a22d215b4939b4db4058197a60e6d213c"
+hash = "258e13eefc6c54c82e6520f6c05ffd6695cbf512b6b92ed569db01c7825250d0"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
@@ -217,6 +217,10 @@ hash = "9a4abc8e46109a2ad88632456c6c11b70770acd9e0da8ce196596f7ab82923dc"
 [[files]]
 file = "defaultconfigs/sebastrnlib-server.toml"
 hash = "93c65bb6023a72b157eb2b1f41de8f9707a53c74f44a92fd4cdd5c7e05db3832"
+
+[[files]]
+file = "manifest.json"
+hash = "76d1a574fa7d6ccd50e0bc27534ce57ba0fb07ad71bd131343ffc9017a30e71f"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"

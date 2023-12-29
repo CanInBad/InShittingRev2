@@ -6,3 +6,4 @@ modlist.md
 
 *.ps1
 .vscode/**
+manifest.json
