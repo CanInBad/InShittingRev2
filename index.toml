@@ -55,8 +55,7 @@ preserve = true
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a98b5291dd28c665b6454f363422e313b6e85a7d77a1a54afd8462498ebd28d0"
-preserve = true
+hash = "fcda6b934d516f90824e9b0a1172268a22d215b4939b4db4058197a60e6d213c"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
@@ -320,6 +319,11 @@ hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "4203512959b1c55267a2333dce73b1f745dac6db756396416cc180a90a4dcfb8"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
 metafile = true
@@ -372,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "959377544e5aecaaf0e87dfc10456926dd330c7fc91cca95e277686521f009be"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "b4e7d9494c9f3c5a7e21e4050aa5d5cb3954dc2e73a0c2e371ec75feea44ea5b"
 metafile = true
 
 [[files]]
@@ -670,6 +679,11 @@ hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "3979b82d5760d5a21e6bfecc9de4d49163880ae335e24b8de3fbd1c398617c4a"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
 metafile = true
@@ -832,11 +846,6 @@ metafile = true
 [[files]]
 file = "mods/online-picture-frame.pw.toml"
 hash = "7439fd541b516b58738276f5425ff2b918062d3d1ed4f71b302a78e2a5c72722"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "34610acd166ec28fb10187e2d7cfa4fed7b7f982e405be33c7a89ffd32fee286"
 metafile = true
 
 [[files]]
@@ -1040,16 +1049,6 @@ hash = "937a393f6752b5d41d351218b195c50e8dcd761f3a11feeadcba3c6d947c6065"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "cbb583ac3c1da73ef5fe1acf205e856e129c538b9d9fff356192942b143b58e7"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "3bcfe8680b1f7a47f722463b9b1aff2bcae11c16b8822696c2fc5e2e9e1da2a8"
-metafile = true
-
-[[files]]
 file = "mods/xp-tome.pw.toml"
 hash = "7a8c614beb77dbce7566835e9115bee67c568e52f34469c4bc7ece34a5f2f715"
 metafile = true
@@ -1092,9 +1091,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "731db90e2adfc9c1899a5e9b0459cdcab7fdb7bba58eba4635db2f98e7b233d6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
-hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
