@@ -454,6 +454,11 @@ hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+metafile = true
+
+[[files]]
 file = "mods/flat-bedrock.pw.toml"
 hash = "aff7714a66dc547caf6797c5f92ae214d1a7372a6b02a22ed919826287398159"
 metafile = true
