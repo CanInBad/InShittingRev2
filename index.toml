@@ -319,11 +319,6 @@ hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "4203512959b1c55267a2333dce73b1f745dac6db756396416cc180a90a4dcfb8"
-metafile = true
-
-[[files]]
 file = "mods/athena.pw.toml"
 hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
 metafile = true
@@ -376,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "959377544e5aecaaf0e87dfc10456926dd330c7fc91cca95e277686521f009be"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "b4e7d9494c9f3c5a7e21e4050aa5d5cb3954dc2e73a0c2e371ec75feea44ea5b"
 metafile = true
 
 [[files]]
@@ -594,6 +584,21 @@ hash = "6ccec096857316cf6cc35b37bb1f6c4c7bf8861b743a44141d96ccfa7472598c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "38648f818acbd965d0bb19259acfe1a41444fea8a5ead81ac8ecef0803a37d86"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "ba8611194b53a37c87f3531718f338b7f5275a84dc7d35730e660c9e7d5e680e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "11e16884c44640c472ad35d68ad82ef6f541f6b49727c28101732d8a1fa4bc25"
 metafile = true
@@ -676,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "984777a8579614de782385fda28e61fc538564ccc6c77dfae1d024bcd8c6af6c"
 metafile = true
 
 [[files]]
