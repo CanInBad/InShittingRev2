@@ -219,10 +219,6 @@ file = "defaultconfigs/sebastrnlib-server.toml"
 hash = "93c65bb6023a72b157eb2b1f41de8f9707a53c74f44a92fd4cdd5c7e05db3832"
 
 [[files]]
-file = "manifest.json"
-hash = "76d1a574fa7d6ccd50e0bc27534ce57ba0fb07ad71bd131343ffc9017a30e71f"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "28035b9119ebf8b128888800c6ea848f6c426b20023ea29343ca5faa3ad954c9"
 metafile = true
@@ -1039,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
+hash = "a52d2b9aebb6b4ac3d0637950bd05c67c3f34aae19a6e6358b6e34a44c2087b4"
 metafile = true
 
 [[files]]
