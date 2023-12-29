@@ -1,6 +1,159 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/client.toml"
+hash = "1ab67b4702151c37eccf3526ed47df3c270158cd4cb82973a594840741bfba9c"
+preserve = true
+
+[[files]]
+file = "config/Mekanism/common.toml"
+hash = "32dd9b2e18b67a1e94026124000d720b36ddb24be092303141a4901f33d7b7c0"
+preserve = true
+
+[[files]]
+file = "config/Mekanism/gear.toml"
+hash = "4ebef305fe76e65feb98a1a47c5513fddecd7c28381d9a4335991f3910fb3642"
+preserve = true
+
+[[files]]
+file = "config/Mekanism/general.toml"
+hash = "8e9c428f12a965bedcd53981c1d556c43929b8c8a9fcfbee055e497c6e288720"
+preserve = true
+
+[[files]]
+file = "config/Mekanism/generator-storage.toml"
+hash = "344c8cc8f714abb7e780c2424c8c4cfca9cff46410e5ab22b90993637a0bdde8"
+preserve = true
+
+[[files]]
+file = "config/Mekanism/generators-gear.toml"
+hash = "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338"
+preserve = true
+
+[[files]]
+file = "config/Mekanism/generators.toml"
+hash = "c861d7b1b9438b6950d503a80e9e16cf64b010bf2688d2c3e003410590682560"
+preserve = true
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "16111335f18eb7fc2498d3718b64a7e40a9673b3170cdd8706e447e7eac062f8"
+preserve = true
+
+[[files]]
+file = "config/alexscaves-general.toml"
+hash = "bfc173d287357bfefb92c8015e0eb8a264a591dcc2c55f4a721af1eb478dc9b0"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "45b7a4897cc1e604985b269062fb9a0afac042dd48c90a8f3c31b58d53879c2d"
+preserve = true
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "a98b5291dd28c665b6454f363422e313b6e85a7d77a1a54afd8462498ebd28d0"
+preserve = true
+
+[[files]]
+file = "config/effortlessbuilding-common.toml"
+hash = "79c657591b3e7062787b7d9a8b51791cd0d815f80c6b7146bbc134e73cb73f72"
+preserve = true
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "59cc6ddda623a51272d4889631c2f0e3498df492681ff5fa3d7648a99a1451e2"
+preserve = true
+
+[[files]]
+file = "config/megacells.json"
+hash = "7f00214b32b6ae022c9cda4d58b2c8590e05e2e22e0cbf94bb84bd35569d89a8"
+preserve = true
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "fd9d9390aa9101dee4211acd3bf2df0a0506cacb5b0d2d580b0867df098dcfdb"
+preserve = true
+
+[[files]]
+file = "config/offlineskins.json"
+hash = "44c5e60f0360c15f42da7958eef90bf7fd364a057348883ad3fbf0b42284bb10"
+preserve = true
+
+[[files]]
+file = "config/sculkhorde_config.toml"
+hash = "07820ec57172377a4ec296e4ea1a0c2728c00532a9fce3515c4fd14d3fe589f8"
+preserve = true
+
+[[files]]
+file = "config/simpleplanes-common.toml"
+hash = "8bfb2ca9e610e20d3f70c1149bec33ae56dafd1c226d6b70cc96f7cab831b549"
+preserve = true
+
+[[files]]
+file = "config/skilltree-common.toml"
+hash = "08502756d86baebb3951a30a6773653ee008c2b7f67c57b54c68647f730b9fe9"
+preserve = true
+
+[[files]]
+file = "config/staaaaaaaaaaaack-common.toml"
+hash = "869ce3e32b09be78035facfcc1e981441532fd3553ba302d55eeea25c7175aa4"
+preserve = true
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "4d3bd59edaa749e038133d763f21e3773265a156d2347bbc23cf85071eaedd2e"
+preserve = true
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "476fdba7c421cc4129032a3e5f85637ae971cc6c30fc2ec44ad137924430cecf"
+preserve = true
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "b6b8745499688bebc883ecca6b24a36dfef9401c385a93e75a9883ea8e35adbb"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "3ffa410ff870c42c424bed474fb0cdedbcc2fb577b38140e7cd923487ce5e318"
+
+[[files]]
+file = "defaultconfigs/effortlessbuilding-server.toml"
+hash = "1591ce9beeb1e1604a66e4eb08dd793370d158e29474f24451476876ff9f72a8"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "6de1575f5b97887790a5321a7cb22e38ec4fb46dbecff388b422c88620265d9e"
+
+[[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "b5522b1e110d95eedb754c67041969140192972ba7190c1182a61a469eaea1e0"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "eff457df3e690fcd0c5ae1d9018bd6c1eb8b436a141856105458dcee9c3c6d78"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "c7a53f848972edc7433ddb66fe47f93328c9719dc61a88b51b47339e460ee17a"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "c7a53f848972edc7433ddb66fe47f93328c9719dc61a88b51b47339e460ee17a"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "62e25c72c9a1dbe2ea90deed6402f997e36cd502fa8e1f117cccaacb05d99ec7"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "9a4abc8e46109a2ad88632456c6c11b70770acd9e0da8ce196596f7ab82923dc"
+
+[[files]]
+file = "defaultconfigs/sebastrnlib-server.toml"
+hash = "93c65bb6023a72b157eb2b1f41de8f9707a53c74f44a92fd4cdd5c7e05db3832"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "28035b9119ebf8b128888800c6ea848f6c426b20023ea29343ca5faa3ad954c9"
 metafile = true
@@ -166,6 +319,11 @@ hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
 metafile = true
 
 [[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "7830a2f913a010ba43de48be87107b78b66408f3d827757c3c0ed2d367b1efbf"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
@@ -178,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "d3a407f3dc2e5be16da88d419d8f8b2be6dccdff36cabf0922a2ddfffa31a5ab"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "0cdd209cbf66b8929f8250f520e2bcf94056f57c82921444875265fb9db1f64f"
 metafile = true
 
 [[files]]
@@ -216,6 +379,11 @@ hash = "cf268643448a5e1afd00e98aa0d0e295a7adde8fa60f1a2cd04e83bdaa3e48c1"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "814db4ad681a0bf1fb6979caf675132a5703ee347aa30a77d07339343890bd03"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
 metafile = true
@@ -228,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "d961f4ea86fd8cb9ff5413869c17d63554d4b33c0be9fe5644dc402dbb28b733"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "2423502ac14234635177138909605f6fe8fb6a7e0fedba4f32fd673415310d37"
 metafile = true
 
 [[files]]
@@ -266,13 +439,18 @@ hash = "4db64b70cbc5b078b807402a1e82ad324a44495958c1236390beaaeebf4d689e"
 metafile = true
 
 [[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+file = "mods/farsight.pw.toml"
+hash = "cdc527c48eca59ad1cc1963653b96f82d620d685a374480a79807d2054f02964"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "f122c0b45bc52dbecc0f758457ec3d2e0c0b8e04ddc991e79b0f0c93d46b5267"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
 
 [[files]]
@@ -327,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "777dce932a8424dbefcdd5488d01bf618432e75049454303164b5100de59a87a"
+hash = "64cbb60040f19d086bda88ea73463aa98f16cd6ac3cc800d576064e906e11947"
 metafile = true
 
 [[files]]
@@ -413,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/libreexpfix.pw.toml"
 hash = "94a3efed233ccebc143612fdba55eb6acb36fa51db124c6ac7b564f409cee21c"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "c21fc069b62af8b6ea5e7bba3c04aae1e808be1cd913df1c05aaf94e8a8c1c8a"
 metafile = true
 
 [[files]]
@@ -618,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "7e629d1fe92cbbd7326682fb0120d5da8065562f207063a1831c2a676c4c7bda"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
 metafile = true
 
 [[files]]

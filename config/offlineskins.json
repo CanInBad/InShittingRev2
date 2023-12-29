@@ -1,0 +1,9 @@
+{
+  "useMojang": true,
+  "useCrafatar": false,
+  "useCustomServer": false,
+  "hostCustomServer": "http://example.com",
+  "useCustomServer2": true,
+  "hostCustomServer2Skin": "https://raw.githubusercontent.com/CanInBad/offlineSkinS/main/skins/%name%.png",
+  "hostCustomServer2Cape": "https://raw.githubusercontent.com/CanInBad/offlineSkinS/main/capes/%name%.png"
+}
