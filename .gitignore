@@ -5,4 +5,4 @@ modlist.md
 /*.zip
 
 *.ps1
-.vscode/settings.json
+.vscode/**

@@ -1,6 +1,6 @@
 name = "Pause Day Cycle"
 filename = "pause-day-cycle-1.0+1.20.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8fDygXCb/versions/5bglb1HR/pause-day-cycle-1.0%2B1.20.zip"

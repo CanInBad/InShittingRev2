@@ -2,3 +2,4 @@ modlist.md
 LICENSE
 README.md
 *.ps1
+.vscode/**

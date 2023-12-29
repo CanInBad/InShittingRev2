@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "2a05f644e26162935bf464afefec5574749f72a2008e68fe5488eb15381568b8"
-
-[[files]]
 file = "Credits.md"
 hash = "271425f79be75fb11067af8b3525ebfc0e13d2ef0cd0e36be727e92bee9f4974"
 
@@ -105,7 +101,7 @@ hash = "f429a2e78d1501d6062d854d0b106d47f270a9c51efe34ff0bc194778a235a39"
 
 [[files]]
 file = "config/paxi/datapacks/detect-afk.pw.toml"
-hash = "4ca6fe495a80554b2b8a44385c74cbfd4109557a6a5f9e6b36210432d7265081"
+hash = "3f1a50059c8e7e8a65ef1f5679a24212a50d1d5b687ddb6de0e337370210a49b"
 metafile = true
 
 [[files]]
@@ -122,7 +118,7 @@ hash = "ede3c74ea85c762de93b9b5b5eb49ded0d6cb3dda3e9b1f6a8daaecda1fe8665"
 
 [[files]]
 file = "config/paxi/datapacks/pause-day-cycle.pw.toml"
-hash = "acf4f3cc6a12eec6fd8701c39e768f1e8bbfdd6d423fe4aa7d16bf978139cc18"
+hash = "9da1787404ae4db43ea280320df1804f46c7c501693a7144dc684712204790ad"
 metafile = true
 
 [[files]]
@@ -614,6 +610,11 @@ hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "d8dd6092de845ee7bdab21468819986bb890a7bd026cb3a73d65707e06ac53b3"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "fd8a16a5802d4f48130060357963caaf7e450afe047675f16d32ef2714d00159"
 metafile = true
@@ -956,6 +957,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "efafe2f0f5a323b2156bfe138569fce7b8f7c9bac331dd15dac31967faf32165"
 metafile = true
 
 [[files]]
