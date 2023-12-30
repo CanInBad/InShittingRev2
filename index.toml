@@ -280,6 +280,16 @@ hash = "c7366fbbfd179fca5a3ab2b74800133cd99ea2d8c6edf79abbc2dbb9fbaf66dc"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "e7fc067ffd5dc111227e70ade57fa51dac0371a5376c9b7e71695d941921d85d"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "b056940d55f3c34ebc8c80df1079168004280fb5d35119c29cca6bd0165b967e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -345,6 +355,11 @@ hash = "7f293162a31dcdea95723f449c08d4bf4b33f4bcc84d63bf8cdaa90da1e5c93a"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "6b6606cba629513b93efc3785208566165ae53eef400f1767f959af4ba9c901e"
+metafile = true
+
+[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
 metafile = true
@@ -352,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/block-runner-forge.pw.toml"
 hash = "2a9cdbaa0ff703be66ab1bfafd3532f1f3eb3743f98f3395a5e1a1293e96c010"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "a9dbd40b259794dcd23e39f6c5f184788308e85b1be7d5dd0276c7eca56b8907"
 metafile = true
 
 [[files]]
@@ -465,6 +485,16 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
@@ -520,6 +550,11 @@ hash = "ac0474dfeabf51460a83ff30f8cd085da73261350d8df19993e6985e1632143b"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "d961f4ea86fd8cb9ff5413869c17d63554d4b33c0be9fe5644dc402dbb28b733"
 metafile = true
@@ -550,8 +585,18 @@ hash = "aa01c95b95d0d7e848a52b6af73726fc06611e0074602bd2512e4231186fc43f"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
+metafile = true
+
+[[files]]
 file = "mods/endremastered.pw.toml"
 hash = "d3a4666ce920b1bc4df208452687a8e382bdd9cb7d1516edbaf6ed6c14f9af1f"
+metafile = true
+
+[[files]]
+file = "mods/even-more-instruments.pw.toml"
+hash = "bb0efcb85337cc2b87851a690d48679a65a6f0819e6df6225dd4d59892edf4c9"
 metafile = true
 
 [[files]]
@@ -870,6 +915,11 @@ hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
@@ -877,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "fe7a35725a044e536f0ad1ce6217a7e151329923a3397fc9ca20e172b1749857"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "71fb3404b65e75436949c03de533472c78e157951f6c29fd674735039ed9807d"
 metafile = true
 
 [[files]]
@@ -980,6 +1035,11 @@ hash = "30bc6480748d3d41dbb052c96c06198ef82d13958951d1263e379c75259f3348"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "1c7f568d9c599b8159a7e2981afcceea964e98baff9811cfd07d915c1fcff1b1"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "598e513bac1c3a8abf8e6bd5ce1fbd7b62a274c58c9f18c8e08274c02049aae1"
 metafile = true
@@ -1047,6 +1107,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "c2100cc59d9b091423be6a7a355498bd24f03d8081e87acae4f5a6683cda7a04"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "06e9e2d2012f608a7e126a462119e7b34a0d59d8fd2ea03a45fb50424f55ed30"
 metafile = true
 
 [[files]]
@@ -1126,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b474a6ef3061361a0f3b1a6b2c743f2e516ab0b742bdc6d7316c8513c0165122"
+hash = "a5c1f010b46da5e496567274ae66fcc8ec8a0d2f4ef899053142a43c19887e1c"
 metafile = true
 
 [[files]]
