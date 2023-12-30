@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Overall best sodium fork for forge/neoforge"
 
 [update]

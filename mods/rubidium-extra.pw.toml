@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "65b2c63050dda1554eae0c1ef91bb4e7c6c67b36"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Embeddium Extra Options"
+
 [update]
 [update.curseforge]
 file-id = 4873766

@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Ability to load custom skin server or load skin from Mojang server even in offline server"
 
 [update]

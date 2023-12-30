@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = true
+default = false
 description = "If you already disabled Embedium then also take this off"
 
 [update]

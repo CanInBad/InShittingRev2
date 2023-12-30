@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Ability to rebind or unbind narrator"
 
 [update]

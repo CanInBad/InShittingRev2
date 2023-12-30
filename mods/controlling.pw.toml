@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Key binding mod. this is really required but \"I want less mods\""
 
 [update]

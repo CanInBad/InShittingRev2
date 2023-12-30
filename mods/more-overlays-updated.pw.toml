@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Ability to search with JEI and making it highlighted, light overlay, and better chunk borders"
 
 [update]

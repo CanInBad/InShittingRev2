@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "3dabc549d1dccb535e0507bf13519f56e994fb30"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Making advancement clickable"
+
 [update]
 [update.curseforge]
 file-id = 4979403
