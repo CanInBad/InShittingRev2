@@ -1,0 +1,18 @@
+name = "SeasonHUD"
+filename = "seasonhud-forge-1.20.1-1.7.7.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "af2ec4576229d92fdb732372ef051b220040f521"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = true
+description = "display current season on your journeymap"
+
+[update]
+[update.curseforge]
+file-id = 4993383
+project-id = 690971

@@ -54,10 +54,6 @@ hash = "45b7a4897cc1e604985b269062fb9a0afac042dd48c90a8f3c31b58d53879c2d"
 preserve = true
 
 [[files]]
-file = "config/bcc-common.toml"
-hash = "258e13eefc6c54c82e6520f6c05ffd6695cbf512b6b92ed569db01c7825250d0"
-
-[[files]]
 file = "config/effortlessbuilding-common.toml"
 hash = "79c657591b3e7062787b7d9a8b51791cd0d815f80c6b7146bbc134e73cb73f72"
 preserve = true
@@ -344,11 +340,6 @@ hash = "7f293162a31dcdea95723f449c08d4bf4b33f4bcc84d63bf8cdaa90da1e5c93a"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "c6db833d0e18e389bba8ce929f3caee7f45215c102ac85c481ca8c721008f8b3"
-metafile = true
-
-[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
 metafile = true
@@ -496,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "6605b488e55252876686a042810fa60099fc5a0d390d33cc2907eef204fc047c"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "1e11f4f972028ad2b783be5fc14afa10bd554722893ee210fec74ad8722bc43f"
 metafile = true
 
 [[files]]
@@ -951,6 +947,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "57653eab3774bad3dc5904a7ee0f8ba0d081291e9e89074f21072bb07c79f88b"
 metafile = true
 
 [[files]]
