@@ -1,0 +1,13 @@
+name = "Productive Bees"
+filename = "productivebees-1.20.1-12.2.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1443ffdbc56183d72fc006b21620ba7684677c05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4994632
+project-id = 377897

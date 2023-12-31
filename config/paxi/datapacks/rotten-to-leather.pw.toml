@@ -1,0 +1,13 @@
+name = "Rotten To Leather"
+filename = "RottenToLeather.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FabptPkL/versions/FvEMCRx1/RottenToLeather.zip"
+hash-format = "sha1"
+hash = "a61b4772d503be3fe3599ba4c43d5376eb63d124"
+
+[update]
+[update.modrinth]
+mod-id = "FabptPkL"
+version = "FvEMCRx1"

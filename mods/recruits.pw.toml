@@ -1,0 +1,13 @@
+name = "Villager Recruits: Cavalry Update!"
+filename = "recruits-1.20.1-1.10.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac01eecf43cc29cd56cca069d8cdca26f3e8ea0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4846123
+project-id = 523860

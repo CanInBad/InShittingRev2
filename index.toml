@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Credits.md"
-hash = "271425f79be75fb11067af8b3525ebfc0e13d2ef0cd0e36be727e92bee9f4974"
+hash = "1d3196c59ab54db6e73dd4ee405fa63321a189f33d0fafc88bd9845e262bc9d8"
 
 [[files]]
 file = "config/Mekanism/client.toml"
@@ -104,12 +104,26 @@ file = "config/paxi/datapacks/homes v1.5.7 (MC 1.20-1.20.4).zip"
 hash = "55b9d79f004e06faf6fd735e284979b36387d1bc8fabfe6987db75d1d508e531"
 
 [[files]]
+file = "config/paxi/datapacks/imagerecipe.zip"
+hash = "0b7e349279b11125fba8648275483768de43ec41e760b3b8c33611d44c2a61e9"
+
+[[files]]
 file = "config/paxi/datapacks/larger phantoms v1.2.7 (MC 1.20-1.20.4).zip"
 hash = "780a04013c66940158e7693ca4e4bbeb341c16584bc73996d29f8549bb23686f"
 
 [[files]]
 file = "config/paxi/datapacks/nether portal coords v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "ede3c74ea85c762de93b9b5b5eb49ded0d6cb3dda3e9b1f6a8daaecda1fe8665"
+
+[[files]]
+file = "config/paxi/datapacks/netherracked.pw.toml"
+hash = "e1b73bcc69f0d346a0cacef5cc950fbb9b378639390d5b12e9af792d209fbd87"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/nets.pw.toml"
+hash = "58e30269291f524d7bdf006321d03fedf3c2f6c95be636347273e2941e7e771d"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/pause-day-cycle.pw.toml"
@@ -119,6 +133,11 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
+
+[[files]]
+file = "config/paxi/datapacks/rotten-to-leather.pw.toml"
+hash = "b304d60a817326b1cdb8e7dbf680db017b697f01923d264d3bdd24014c9e69dd"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spawn v2.3.6 (MC 1.20-1.20.4).zip"
@@ -277,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "c7366fbbfd179fca5a3ab2b74800133cd99ea2d8c6edf79abbc2dbb9fbaf66dc"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "cfc6acb8cf4163db6bfd115b11a8ce6970eb48e59eb85f4ec8bd49bbda769614"
 metafile = true
 
 [[files]]
@@ -895,11 +919,6 @@ hash = "3ff2a936abd19a68f64ea34c0f2a0d83d34cd019b8334e2b4eb4f64f63fc672d"
 metafile = true
 
 [[files]]
-file = "mods/mystical-agradditions.pw.toml"
-hash = "3ee58d8703d1d08d4004446fb1a75710dd75b271bf1b392827186aaf9ef3ef12"
-metafile = true
-
-[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "31e6022835c79244d2061c1aad3e18f0976c7742704c400ee519d7a257d2257e"
 metafile = true
@@ -990,6 +1009,11 @@ hash = "c9edb1a66d27b10be939921c68e3a5042268b80822457530b8a552015eab35f7"
 metafile = true
 
 [[files]]
+file = "mods/productivebees.pw.toml"
+hash = "0dd51d4d353b3f3aa78f699953a4b8ccc6560ac7fc8b2fc10a3264445530e22c"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8a72bad048457c616c690838c8d2f6f958c3a3f5cbc843f38e6e2eaa0d043c7b"
 metafile = true
@@ -1002,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
+metafile = true
+
+[[files]]
+file = "mods/recruits.pw.toml"
+hash = "e8fe14daca04e51529dae5ef05b0fdc16d4ec273182bdc852157b15a1e639f54"
 metafile = true
 
 [[files]]
@@ -1165,6 +1194,11 @@ hash = "afd9305d70342384136dbe73b79d7a4684bad651edf15b58e4b29cf357bfedbc"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone-forge.pw.toml"
+hash = "6d0e96aa625475372c2c72046cc3a20b14d41dfdd96f3a2282c86a09da898fb6"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "9426175cd0a7f08aeeda98b4120ec9788bb643c03f3a6b02566c78b17105658e"
 metafile = true
@@ -1202,6 +1236,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "937a393f6752b5d41d351218b195c50e8dcd761f3a11feeadcba3c6d947c6065"
+metafile = true
+
+[[files]]
+file = "mods/workers.pw.toml"
+hash = "8ee1fa6c1575a9d503282bca27035f113c2cec5104529813d6231b37e32f1ade"
 metafile = true
 
 [[files]]
